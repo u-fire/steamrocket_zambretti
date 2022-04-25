@@ -1,0 +1,20 @@
+{
+  "name": "steamrocket_Zambretti",
+  "version": "1.0.0",
+  "description": "Uses the Zambretti forecast formula to provide a weather forecast.",
+  "main": "app.js",
+  "keywords": [
+    "zambretti",
+    "steamrocket",
+    "weather",
+    "pressure"
+  ],
+  "author": "steamrocket",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "knex": "^1.0.4",
+    "mqtt": "^4.3.7",
+    "mysql2": "^2.3.3"
+  }
+}
